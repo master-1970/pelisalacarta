@@ -4,11 +4,11 @@
 	<name>TV-VIP</name>
 	<language>es</language>
 	<update_url></update_url>
-	<active>true</active>
+	<active>false</active>
 
-	<version>5</version>
+	<version>6</version>
 	<adult>false</adult>
-	<date>08/07/2016</date>
+	<date>04/01/2017</date>
 	<changes>Forzar conflicto</changes>
 	<fanart></fanart>
 	<thumbnail>http://i.imgur.com/gNHVlI4.png</thumbnail>
